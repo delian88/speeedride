@@ -1,0 +1,7 @@
+{
+  "name": "Speedride",
+  "description": "A full-feature taxi booking application with Rider, Driver, and Admin dashboards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
